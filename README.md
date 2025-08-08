@@ -2,7 +2,7 @@
 
 I'm an integration consultant working mostly with SAP’s proprietary platforms — so most of my day-to-day work isn’t public. 
 
-This GitHub is mainly for side projects, personal tools, and experiments I can share. You can find my [blog](https://blog.almag.ro), which I use less frequently than I'd like, and my [CV](https://blog.almag.ro/cv/) here.
+This GitHub is mainly for side projects, personal tools, and experiments I can share. Here you can find my [blog](https://blog.almag.ro), which I use less frequently than I'd like, and also my [CV](https://blog.almag.ro/cv/).
 
 <div class="box">
   <div class="header"><strong>⌨ Languages & scripting</strong></div>
