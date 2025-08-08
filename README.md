@@ -1,6 +1,6 @@
-# Manuel Almagro Rivas
+# Hello! I'm Manuel.
 
-👋 I'm an integration consultant working mostly with SAP’s proprietary platforms — so most of my day-to-day work isn’t public.  
+I'm an integration consultant working mostly with SAP’s proprietary platforms — so most of my day-to-day work isn’t public.  
 This GitHub is mainly for side projects, personal tools, and experiments I can share. You can find my [blog](https://blog.almag.ro), which I use less frequently than I'd like, and my [CV](https://blog.almag.ro/cv/) here.
 
 <div class="box">
